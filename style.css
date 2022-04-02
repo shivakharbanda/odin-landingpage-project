@@ -188,4 +188,7 @@ footer {
     text-align: center;
     padding: 15px;
     font-size: large;
+    margin-left: -100px;
+    margin-right: -100px;
+    margin-bottom: -100px;
 }
